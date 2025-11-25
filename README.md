@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🚀 Matthew Carr — The World’s Fastest Founder
 
-<!--
-**fastestfounder/fastestfounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Building real startups in 90 minutes ✨
+AI × Cybersecurity × Discipline × Execution.
 
-Here are some ideas to get you started:
+## 🟡 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build real products in real cities
+- Use AI to collapse development time
+- Document the entire journey publicly
+- Push the limits of speed-based entrepreneurship
+
+## 🛠 Featured Projects
+
+- 90 Minute Startup — Code for every episode
+- Fastest Founder Tools — Everything I use to build faster
+- FF Pipeline — Automation scripts for rapid creation
+
+## 📺 Watch the show
+
+YouTube → https://youtube.com/@FastestFounder
+X → https://x.com/FastestFounder
