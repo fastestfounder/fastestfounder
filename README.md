@@ -41,14 +41,8 @@ Go · Python · JavaScript · TypeScript
 **Frameworks:**  
 FastAPI · React · Next.js · Express
 
-**DevOps / Infra:**  
-Docker · GitHub Actions · Nginx · DigitalOcean · Vercel
-
 **Databases:**  
 MongoDB · PostgreSQL · SQLite
-
-**AI Tools:**  
-GPT · Claude · Cursor · v0.dev · Midjourney
 
 ---
 
