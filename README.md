@@ -27,9 +27,28 @@
 ## 🟡 What I Do
 
 - Build real products in real cities  
-- Use AI to collapse development time  
+- Use AI to collapse development timelines  
 - Document the entire journey publicly  
 - Push the limits of speed-based entrepreneurship  
+
+---
+
+## ⚙️ Tech Stack for Speed
+
+**Languages:**  
+Go · Python · JavaScript · TypeScript
+
+**Frameworks:**  
+FastAPI · React · Next.js · Express
+
+**DevOps / Infra:**  
+Docker · GitHub Actions · Nginx · DigitalOcean · Vercel
+
+**Databases:**  
+MongoDB · PostgreSQL · SQLite
+
+**AI Tools:**  
+GPT · Claude · Cursor · v0.dev · Midjourney
 
 ---
 
@@ -38,8 +57,24 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | **90 Minute Startup** | Code, prompts & builds for every episode | _(Coming Soon)_ |
-| **Fastest Founder Tools** | Scripts, templates & utilities for hyper-speed development | _(Coming Soon)_ |
+| **Fastest Founder Tools** | Scripts, templates & utilities for hyper-speed dev | _(Coming Soon)_ |
 | **FF Pipeline** | Automations for deployment, scaffolding & rapid creation | _(Coming Soon)_ |
+
+---
+
+## 🔥 Currently Building
+
+- Season 1 of **90 Minute Startup**  
+- AI-assisted tools for hyper-speed prototyping  
+- The Fastest Founder boilerplate suite  
+- A global challenge-based creator/founder ecosystem  
+
+---
+
+## 🌍 Join the Journey
+
+Follow the builds, the process, and the mission to become  
+**the most productive founder on the planet.**
 
 ---
 
