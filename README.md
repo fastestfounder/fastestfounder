@@ -33,19 +33,6 @@
 
 ---
 
-## ⚙️ Tech Stack for Speed
-
-**Languages:**  
-Go · Python · JavaScript · TypeScript
-
-**Frameworks:**  
-FastAPI · React · Next.js · Express
-
-**Databases:**  
-MongoDB · PostgreSQL · SQLite
-
----
-
 ## 🛠 Featured Projects
 
 | Project | Description | Link |
