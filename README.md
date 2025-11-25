@@ -1,4 +1,4 @@
-# 🚀 Matthew Carr — The World’s Fastest Founder
+# 🚀 Matthew Carr - The World’s Fastest Founder
 
 ✨ Building real startups in 90 minutes ✨
 
