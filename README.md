@@ -1,6 +1,7 @@
 # 🚀 Matthew Carr — The World’s Fastest Founder
 
 ✨ Building real startups in 90 minutes ✨
+
 AI × Cybersecurity × Discipline × Execution.
 
 ## 🟡 What I Do
@@ -19,4 +20,5 @@ AI × Cybersecurity × Discipline × Execution.
 ## 📺 Watch the show
 
 YouTube → https://youtube.com/@FastestFounder
+
 X → https://x.com/FastestFounder
